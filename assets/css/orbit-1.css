@@ -274,6 +274,12 @@ p {
   margin-bottom: 15px;
 }
 
+.main-wrapper .projects-section .item .project-tagline {
+  margin-bottom: 15px;
+  text-indent: -8px;
+
+}
+
 .skillset .item {
   margin-bottom: 15px;
   overflow: hidden;

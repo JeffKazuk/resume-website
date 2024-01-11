@@ -233,6 +233,11 @@ p {
   text-indent: -8px;
 }
 
+.main-wrapper .experiences-section .item .details .bullet_points {
+  margin-bottom: 5px;
+
+}
+
 .main-wrapper .upper-row {
   position: relative;
   overflow: hidden;
